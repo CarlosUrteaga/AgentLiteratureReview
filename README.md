@@ -2,6 +2,9 @@
 Agent 
 The idea is to add the literature review that is related to agents
 
+
+Thread week https://x.com/dair_ai/status/1987535757242982410
+
 Scaling Agent Learning via Experience Synthesis
 https://x.com/jaseweston/status/1986613046047846569
 https://arxiv.org/abs/2511.03773
@@ -25,3 +28,5 @@ https://arxiv.org/abs/2511.02303
 https://x.com/rohanpaul_ai/status/1986906282734092665
 https://research.google/blog/ds-star-a-state-of-the-art-versatile-data-science-agent/
 https://arxiv.org/pdf/2509.21825
+
+https://x.com/dair_ai/status/1987535732551102513
