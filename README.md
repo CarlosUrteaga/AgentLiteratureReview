@@ -21,3 +21,7 @@ https://arxiv.org/abs/2511.01854
 Unlocking the Power of Multi-Agent LLM for Reasoning
 https://x.com/omarsar0/status/1986831275144138756
 https://arxiv.org/abs/2511.02303
+
+https://x.com/rohanpaul_ai/status/1986906282734092665
+https://research.google/blog/ds-star-a-state-of-the-art-versatile-data-science-agent/
+https://arxiv.org/pdf/2509.21825
