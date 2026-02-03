@@ -3,7 +3,7 @@
 This folder stores literature review source documents for the 2026-01-24 batch.
 
 ## Contents
-- PDF papers (e.g., `2601.12538v1.pdf`)
+- PDF papers (e.g., `2507.11277v1.pdf`)
 
 ## Organization
 - Files live at the repository root for now.
@@ -30,4 +30,8 @@ This folder stores literature review source documents for the 2026-01-24 batch.
 ## Índice de Revisión
 | ID | Título | Categoría | Relevancia Tesis |
 | :--- | :--- | :--- | :--- |
+| 2507.11277 | Taming Uncertainty via Automation: Observing, Analyzing, and Optimizing Agentic AI Systems | Governance | Media |
+| 2411.05285 | AgentOps: Enabling Observability of LLM Agents | Governance | Media |
+| 2601.20245 | How AI Impacts Skill Formation | Evaluation | Media |
+| 2601.14351 | If You Want Coherence, Orchestrate a Team of Rivals: Multi-Agent Models of Organizational Intelligence | Orchestration | Alta |
 | 2601.12538 | Agentic Reasoning for Large Language Models | Orchestration | Alta |

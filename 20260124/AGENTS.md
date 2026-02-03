@@ -47,13 +47,13 @@ Agents MUST NOT create new folders.
 For a paper named:
 
 ```
-2601.12538v1.pdf
+2507.11277v1.pdf
 ```
 
 The agent MUST create:
 
 ```
-notes/2601.12538.md
+notes/2507.11277v1.md
 ```
 
 Rules:
@@ -141,7 +141,7 @@ The agent MUST append one row to the table under **Índice de Revisión** with:
 
 Where:
 
-- **ID** = paper numeric id (e.g., 2601.12538)
+- **ID** = paper numeric id (e.g., 2411.05285)
 - **Title** = exact title from the paper
 - **Category** = one of:
 
